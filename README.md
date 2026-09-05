@@ -21,18 +21,14 @@ Certifique-se de ter o [Java JDK](https://www.oracle.com/java/technologies/downl
    git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)](https://github.com/IcaroFeroliv/una-gqs-listaSeis-Java
    cd una-gqs-listaSeis-Java
 
-```
 
 2. Compile o código:
-```bash
+   ```bash
 javac GeradorEstoico.java
-
-```
 
 
 3. Execute a classe compilada:
 ```bash
 java GeradorEstoico
 
-```
 
