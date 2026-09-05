@@ -24,7 +24,7 @@ Certifique-se de ter o [Java JDK](https://www.oracle.com/java/technologies/downl
 
 2. Compile o código:
    ```bash
-javac GeradorEstoico.java
+   javac GeradorEstoico.java
 
 
 3. Execute a classe compilada:
